@@ -1,0 +1,17 @@
+names:
+- Cloud
+- bonefire
+- fire
+- fog
+- no fire-smoke
+- smoke
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: image_labelling-l2yrl
+  url: https://universe.roboflow.com/muhammad-taimour/image_labelling-l2yrl/dataset/7
+  version: 7
+  workspace: muhammad-taimour
+test: /content/Image_Labelling-7/test/images
+train: /content/Image_Labelling-7/train/images
+val: /content/Image_Labelling-7/valid/images
